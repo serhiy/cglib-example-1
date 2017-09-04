@@ -11,6 +11,8 @@ public class DummySession {
 
 	private static Credentials credentials;
 
+	private DummySession() {}
+	
 	/**
 	 * Initiates the user session.
 	 * 
